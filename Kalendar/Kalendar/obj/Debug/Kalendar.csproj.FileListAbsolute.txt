@@ -1,0 +1,10 @@
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\bin\Debug\Kalendar.exe.config
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\bin\Debug\Kalendar.exe
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\bin\Debug\Kalendar.pdb
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\obj\Debug\Kalendar.csprojAssemblyReference.cache
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\obj\Debug\Kalendar.Form1.resources
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\obj\Debug\Kalendar.Properties.Resources.resources
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\obj\Debug\Kalendar.csproj.GenerateResource.cache
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\obj\Debug\Kalendar.csproj.CoreCompileInputs.cache
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\obj\Debug\Kalendar.exe
+D:\Мои документы\Рабочий стол\OOP\Kalendar\Kalendar\obj\Debug\Kalendar.pdb
